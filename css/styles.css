@@ -1,22 +1,43 @@
 .banner {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
 }
-/*
-background {
-  color: gray
-  */
-}
+
 body {
-  background-image: linear-gradient(to bottom right, #000066, #666699);
-  color: whitesmoke;
+  color: rgb(255, 232, 181);
+  background-color: #00004b;
 }
+
 .jumbotron{
-  color: whitesmoke;
-  background-color: black;
+  color: rgb(255, 232, 181);
+  background-color: #00004b;
 }
 
+/*div {
+  background: linear-gradient(to bottom right, #00004b 0%, #31314b 100%);
+}*/
 
-div {
-  background: linear-gradient(to bottom right, #000066 0%, #666699 100%);
+.left {
+  float: left;
+  padding-right: 15px;
+}
+
+.right {
+  float: right;
+  padding-left: 15px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.ending {
+opacity: .50;
+text-align: center;
+font-size: 12px;
+color: white;
+}
+a {
+  color: hotpink;
 }
