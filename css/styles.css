@@ -1,0 +1,14 @@
+.banner {
+  width: 300px;
+  height: 300px;
+}
+background {
+  color: gray
+}
+body {
+  color: whitesmoke;
+  background-color: black;
+}
+.jumbotron{
+  background-color: black;
+}
