@@ -3,7 +3,7 @@
 
 ## Description
 
-A page chronicalling my journey to become a competant programmer.
+A page chronicling my journey to become a competent programmer.
 
 ## Getting Started
 
